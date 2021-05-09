@@ -1,0 +1,28 @@
+body {
+    background-image: url("assets/background.jpg");
+}
+
+.logo {
+    margin-left: 32%;
+    margin-right: 32%;
+    margin-top: -70px;
+}
+
+p {
+    margin-top: -50px;
+    text-align: center;
+    font-family: 'Exo', sans-serif;
+    font-size: 40px;
+}
+
+#nextRace {
+    text-align: left;
+    font-family: 'Exo', sans-serif;
+    font-size: 20px;
+}
+
+#statInfo {
+    text-align: right;
+    font-family: 'Exo', sans-serif;
+    font-size: 20px;
+}
